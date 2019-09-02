@@ -1,0 +1,5 @@
+#copying file from server to local path
+scp user@104.188.199.169:/home/test/test.zip ./
+
+#copying file from local path to server
+scp test.zip user@104.188.199.169:/home/test/
