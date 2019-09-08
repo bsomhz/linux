@@ -1,0 +1,11 @@
+#what services are available
+systemctl
+
+#what system is running currently
+systemctl | grep 'running'
+
+#know that status of system
+systemctl status syslog
+
+#what process are running on system
+top

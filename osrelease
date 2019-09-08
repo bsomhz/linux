@@ -1,0 +1,5 @@
+#know the os release
+cat /etc/*release
+
+#know the os-release
+cat /etc/os-release

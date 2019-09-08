@@ -1,0 +1,4 @@
+#locate file
+sudo locate *.h
+#find file
+sudo find / -name *.h
